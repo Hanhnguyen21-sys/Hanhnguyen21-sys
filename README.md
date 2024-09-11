@@ -9,7 +9,6 @@
 
 ###  👩🏻‍💻 About Me :
   - 👀 I’m a Computer Science student
-  - 🌱 I’m currently learning C++, Java, and Python
   - 💞️ I’m looking for an internship opportunities in Software Engineer position
   - 📧 How to reach me: nnhn212002@gmail.com
 
